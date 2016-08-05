@@ -1,0 +1,37 @@
+_repo: Esther-Waters_8157
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, George Augustus
+    aliases:
+    - Rhone, Lady
+    - Moore, George Augustus
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+description: "Esther Waters is a novel by George Moore first published in 1894.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8157'
+  wikidata: Q5401319
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcsh 'Unmarried mothers -- Fiction'
+- !lcsh 'Women household employees -- Fiction'
+- GITenberg
+title: Esther Waters
+url: http://www.gutenberg.org/ebooks/8157
+wikipedia:
+- https://en.wikipedia.org/wiki/Esther_Waters
